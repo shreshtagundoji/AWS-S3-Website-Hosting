@@ -3,7 +3,7 @@ Hosting a website for public access using AWS S3
 
 AWS S3 bucket
 
-<img width="928" alt="image4" src="https://github.com/user-attachments/assets/d14dfaf8-df89-49a3-b9c2-ec148aebabf2">
+<img width="1440" alt="image3" src="https://github.com/user-attachments/assets/46574557-efa4-438a-9051-0e7cad489196">
 
 Publically hosted website
 
